@@ -6,6 +6,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/banadabi)
+
+
+
 <!---
 banadabi/banadabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
